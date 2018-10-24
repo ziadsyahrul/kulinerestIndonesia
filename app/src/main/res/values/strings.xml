@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">kulinerest Indonesia</string>
+
+    <string-array name="food_name">
+        <item>Gado-gado</item>
+        <item>Sop Buntut</item>
+        <item>Tempe</item>
+        <item>Rendang</item>
+        <item>Nasi Goreng</item>
+        <item>Mie Goreng</item>
+        <item>Bakso</item>
+        <item>Sate</item>
+        <item>Gudeg</item>
+        <item>Soto</item>
+    </string-array>
+
+    <string-array name="detail_food">
+        <item>Makanan khas Jawa yang bisa disebut sebagai "saladnya" Indonesia ini cukup terkenal di luar negeri, terutama di Napoli, Italia. Hal ini dikarenakan gado-gado pernah diikutsertakan dalam kompetisi yang bersaing dengan hidangan dari negara-negara lainnya dan meraih juara pertama. Terhitung dari nilai estetika yang dimiliki, keunikan bahan yang digunakan, serta cita rasa yang dinilai sangat tinggi.</item>
+        <item>Sop buntut sapi, selain digemari masyarakat Indonesia, ternyata juga disukai penduduk Spanyol. Mereka menyukai makanan ini sejak pertama kali kedutaan Indonesia di Italia mengenalkan keanekaragaman makanan khas kita. Kesukaan rakyat Spanyol akan hidangan sapi pun terpuaskan dengan adanya sop buntut ini.</item>
+        <item>Tempe yang terbuat dari kacang kedelai bisa digabungkan dengan cara penyajian yang bervariatif. Namun tahukah kamu, masyarakat Jepang membuat hidangan ini sebagai salah satu favorit mereka lho. Berawal dari seseorang yang menjual tempe dalam sebuah bazaar kuliner Jepang. Sekali mencoba, mereka langsung menyukainya.</item>
+        <item>Selain disukai masyarakat Indonesia, makanan khas Sumatera Barat ini juga tersohor hingga seluruh penjuru dunia. Rendang berada di posisi pertama dalam jajaran 50 makanan dunia terenak versi CNN yang diadakan di Jerman beberapa waktu lalu. Rasanya yang khas dan keempukan dagingnya menjadi faktor penentu utama.</item>
+        <item>Setiap negara memiliki menu nasi goreng. Namun, rasa nasi goreng Indonesia lebih khas karena memakai bumbu lengkap. Gak heran kalau nasi goreng Indonesia juga sempat masuk dalam daftar makanan terenak di dunia. Presiden Amerika Serikat ke-44 Barrack Obama pun sangat menyukai nasi goreng khas Indonesia.</item>
+        <item>Pasangan nasi goreng ini bisa kamu temukan di mana-mana. Variasi bumbu dan bahan membuat lezatnya mie goreng khas Indonesia tak tertandingi.</item>
+        <item>Kuah sup dan mie memang menjadi bagian dari pelengkap bakso. Kita bisa menemukan bakso di mana pun. Ternyata bakso jadi salah satu makanan favorit warga Tiongkok lho. Pasalnya, bakso yang ada di Indonesia dibuat dari daging sapi yang lebih menggugah selera, ditambah dengan gorengan atau pangsit untuk melengkapinya.</item>
+        <item>Sate Padang dan sate Madura menjadi varian yang paling dikenal sekaligus favorit banyak orang. Belakangan, tidak hanya wisatawan asing yang mencari dan ingin mencoba sate, tetapi sejumlah restoran internasional telah memasukkan sate dalam menunya. Di New York, terdapat sebuah restoran bernama Satay Junction yang menyediakan sate ayam sebagai hidangan andalannya.</item>
+        <item>Makanan khas Yogyakarta ini telah menarik perhatian masyarakat Indonesia, bahkan di kalangan internasional. Pasalnya, banyak negara yang ingin mengimpornya dalam bentuk kalengan. Menariknya lagi, di Melbourne, Australia, terdapat satu restoran yang telah menyajikan gudeg asli dari Indonesia, tepatnya di Clayton Road.</item>
+        <item>Indonesia memiliki banyak varian soto yang tersebar di berbagai wilayah, antara lain soto Betawi, coto Makassar, soto ayam, soto sapi, dan soto babat. Keunikan setiap rempah dan ciri khas masing-masing inilah yang membuat soto menjadi salah satu makanan ternama di dunia. Masyarakat Ibaraki, Jepang, pun telah terbiasa dengan cita rasa yang telah diperkenalkan beberapa pelajar Indonesia yang ada di sana.</item>
+    </string-array>
+</resources>
